@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "express": "4.13.3",
-    "request": "2.61.0",
+    "request": "2.68.0",
     "lru-cache": "2.6.5",
     "sinon": "1.16.1",
     "mocha": "2.3.1"
